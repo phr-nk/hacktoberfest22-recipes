@@ -29,6 +29,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-11 22:05:53</sys_created_on>
         <sys_id>d872f3291bfe85500ef897941a4bcb6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-02 03:47:11</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
@@ -42,6 +45,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
+        <encryption_context/>
         <file_name>Recipe.JPG</file_name>
         <hash>52ab83c6ebe98fc99b4f5d0c71545ddc30348a9e373baa9060fe83d134ed261d</hash>
         <image_height/>
